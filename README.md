@@ -1,4 +1,4 @@
-# Modelli di memoria di lavoro basati su reti neurali spiking eterogenee
+# Modelli di memoria di lavoro basati su reti neurali spiking eterogenee con plasticità sinaptica a breve termine
 
 Questo repository contiene la tesi di laurea triennale in Fisica (A.A. 2023/2024), discussa presso l'Università degli Studi di Cagliari.
 
